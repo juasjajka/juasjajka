@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juasjajka
-- 👀 I’m interested in calculas
-- 🌱 I’m currently learning calculas
+- 👀 I’m interested in calculus
+- 🌱 I’m currently learning calculus
 - 💞️ I’m looking to collaborate on integrating derivatives
 - 📫 How to reach me dont try
 
